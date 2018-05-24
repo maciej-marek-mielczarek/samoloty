@@ -1,0 +1,17 @@
+total
+00 x
+01 959
+02 x22/27/48/58
+03 93
+04 x43/20/25/32
+05 138
+06 x30/46/41/60
+07 227
+08 x39/54/40/58
+09 223
+10 x28/18/10/16
+11 181
+12 x12/11/21/0
+x - ignore directory
+xN - ignore directory,
+the turn is N frames long

@@ -1,1 +1,4 @@
-# samoloty
+#Samoloty
+Projekt z jakiegoœ przedmiotu ogólnouniwersyteckiego na studiach.
+
+"Przedmioty ogólnouniwersyteckie" to takie zajêcia na studiach nie zwi¹zane z kierunkiem studiów (w moim przypadku matematyk¹/fizyk¹). Na jednym z takich przedmiotów projekt zaliczeniowy polega³ na zrobieniu jakiegoœ uk³adu choreograficznego (tañca). Jako "œcis³owiec" postanowi³em wykorzystaæ odrobinê swoich umiejêtnoœci programistycznych. Proste skrypty, których u¿y³em do przerobienia (pociêtych na klatki) nagranych kilka razy choreografii w film znajduj¹cy siê w pliku "Samoloty.mp4" mo¿na znaleŸæ w katalogu "codes". S¹ tam równie¿ moje notatki z ciêcia nagrañ na klatki. Plik "making_of_samoloty.pdf" zawiera prezentacjê u¿yt¹ na zaliczeniu, pokazuj¹c¹ pokrótce w³aœnie stadia tworzenia filmu koñcowego. Do nagrywania, ciêcia nagrañ na klatki i kompresji pliku koñcowego u¿y³em darmowych programów stworzonych do takich celów, a nie w³asnych skryptów.
